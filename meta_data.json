@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "social network",
+        "2": "blog",
+        "3": "analytics"
+    },
+    "demo_page": "https://bubble.io/page?type=page&name=typewriter&id=clasic-plugins&test_plugin=1662085823156x622270494948720600_current&tab=tabs-1",
+    "description": "Imitate the type writer effect on text.\n\nAdd fancy and unique taste to your site. \n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1667008900894x679686038252494300/giphy%20%2816%29.gif",
+    "license": "open_source",
+    "link": "https://zeroqode.com/",
+    "name": "Type Writer Text effect",
+    "plugin_instructions": "1 - Download the plugin\n2 - Drag the plugin element in your app\n3 - Add text in the input"
+}
