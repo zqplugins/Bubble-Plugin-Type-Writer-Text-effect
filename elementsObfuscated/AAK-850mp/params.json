@@ -1,0 +1,42 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 600
+    },
+    "display": "Type Writer Text",
+    "fields": {
+        "AAL": {
+            "caption": "text",
+            "default_val": "This is a text example.",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "text",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAM": {
+            "caption": "Font Size",
+            "default_val": 2,
+            "editor": "StaticNumber",
+            "name": "fontSize",
+            "optional": true,
+            "rank": 1
+        },
+        "AAS": {
+            "caption": "delay",
+            "default_val": "2",
+            "doc": "seconds",
+            "editor": "StaticText",
+            "name": "delay",
+            "optional": true,
+            "rank": 2
+        }
+    },
+    "icon": "ion-ios-printer-outline",
+    "property_applications": {
+        "MinWidth": false,
+        "resizable": true
+    }
+}
